@@ -1,3 +1,3 @@
 # gitpractice
-## IM PREACTICING GIT
+## IM PRACTICING GIT
 messing around with git
